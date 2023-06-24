@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "../.."
+    },
+    {
+      "path": "../../../../../../Downloads/intro-section-with-dropdown-navigation-main"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "intro-section-with-dropdown-navigation-main"
+  }
+}
